@@ -1,4 +1,3 @@
-print 'the game is about to start...'
-import os 
+print 'the game is about to start...' 
 import "TTREngine.exe"
 run()
