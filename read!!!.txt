@@ -1,3 +1,0 @@
-1st download this and download panda 3d 1.9.0
-2nd open start_server.bat
-finally enjoy!
